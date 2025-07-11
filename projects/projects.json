@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Leaflet Map website",
+    "desc": "Website pencarian rute rumah sakit dengan algoritma A* menggunakan leaflet ",
+    "image": "jurnal",
+    "category": "basicweb",
+    "links": {
+      "view": "https://go-pai.github.io/rute-rumah-sakit/",
+      "code": "https://github.com/Go-Pai/rute-rumah-sakit.git"
+    }
+  },
+  {
+    "name": "Game Police car",
+    "desc": "Sebuah game sederhana yang dibuat melalui website playcanvas",
+    "image": "game",
+    "category": "game",
+    "links": {
+      "view": "https://playcanv.as/p/pC8RfEQb/",
+      "code": "https://github.com/Go-Pai/police-car-play-canvas.git"
+    }
+  },
+  {
+    "name": "Portfolio 1",
+    "desc": "Portfolio saya pertama kali yang dibuat menggunakan tailwind css",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://go-pai.github.io/portfolio/",
+      "code": "https://github.com/Go-Pai/portfolio"
+    }
+  },
+  {
+    "name": "shoes shop",
+    "desc": "Sebuah website interaktif yang dibuat menggunakan tailwind css",
+    "image": "shoes shop",
+    "category": "basicweb",
+    "links": {
+      "view": "https://go-pai.github.io/shoes-shop/",
+      "code": "https://github.com/Go-Pai/shoes-shop.git"
+    }
+  },
+  {
+    "name": "Website Prodi Teknik UMB",
+    "desc": "Website yang saya buat menggunakan WordPress",
+    "image": "wordpress",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ft-informatika.umb.ac.id/"
+    }
+  }
+]
